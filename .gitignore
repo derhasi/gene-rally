@@ -1,4 +1,12 @@
 *.exe
 *.ini
+.idea
 /cars/Cars.car
 /drivers
+/lang
+/palettes
+/saves
+/screens
+/sounds
+/tracks/*Tracks*/*
+/*.*
